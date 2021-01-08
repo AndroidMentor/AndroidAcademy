@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_default_margin">16dp</dimen>
+    <dimen name="app_default_margin_half">8dp</dimen>
+
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_default">14sp</dimen>
+    <dimen name="movie_details_name">40sp</dimen>
+</resources>

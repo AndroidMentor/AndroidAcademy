@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- colors for apps -->
+    <color name="app_default_background">#191926</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="movie_details_title_color">#ECECEC</color>
+    <color name="movie_details_tagline">#FF3466</color>
+    <color name="movie_details_reviews">#6D6D80</color>
+    <color name="movie_details_description">#40FFFFFF</color>
+    <color name="movie_details_cast_picture_name">#D8D8D8</color>
 </resources>
